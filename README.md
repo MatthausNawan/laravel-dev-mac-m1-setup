@@ -1,4 +1,4 @@
-# Setting Up PHP and Laravel on Mac M1
+# Setting Up PHP and Laravel on Mac M1 2023
 
 > M1 comes with php7.4 by default, laravel now used  PHP 8.0
 
